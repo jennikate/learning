@@ -1,6 +1,6 @@
 // src/js/store/index.js
 
-// reducers produce the state of your application
+// this is where we setup to use redux store
 
 import { createStore } from "redux";
 import rootReducer from "../reducers/index";
